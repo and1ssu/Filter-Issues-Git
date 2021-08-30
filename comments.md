@@ -8,3 +8,4 @@
 - Na utilização dos end-points da api 
 - Com os testes utilitarios 
 
+Netlify (https://testeandersson.netlify.app/)
